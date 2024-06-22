@@ -23,3 +23,11 @@ var myVar = "Hello, world!";
 def main():
   print("Hellow WD")
 ```
+
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
